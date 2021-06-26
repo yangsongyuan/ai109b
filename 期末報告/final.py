@@ -1,7 +1,7 @@
 dirs=[(0,1),(1,0),(0,-1),(-1,0)] #當前位置四個方向的偏移量
 path=[]              #存找到的路徑
 
-def mark(maze,pos):  #給迷宮maze的位置pos標"2"表示“倒過了”
+def mark(maze,pos):  #給迷宮maze的位置pos標"2"表示“到過了”
     maze[pos[0]][pos[1]]=2
 
 def passable(maze,pos): #檢查迷宮maze的位置pos是否可通行
