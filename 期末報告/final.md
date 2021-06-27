@@ -30,3 +30,4 @@ Jasonde-MacBook-Air:期末報告 jasonyang$ python3 final.py
 * https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
 * https://blog.csdn.net/qq_29681777/article/details/83719680
 * https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/364708/
+![維基百科:CC BY-SA 3.0協議文本](https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC)
