@@ -15,7 +15,7 @@ mark當前位置。
 逐個檢查當前位置的四鄰是否可以通達出口（遞迴調用自身）。
 如果對四鄰的探索都失敗，報告失敗。
                             
-![p] (https://github.com/yangsongyuan/ai109b/blob/main/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/final.jpg)
+![p](https://github.com/yangsongyuan/ai109b/blob/main/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A/final.jpg)
                             
 
 ## 程式碼及註解
